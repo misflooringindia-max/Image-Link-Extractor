@@ -1,0 +1,6 @@
+{
+  "name": "AJIO Image Extractor & Formula Generator",
+  "description": "Batch extract high-resolution AJIO product image links from URLs or CSV files with instant Google Sheets and Excel IMAGE formula generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
